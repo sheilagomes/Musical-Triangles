@@ -2,4 +2,4 @@
 A projects in HTML, CSS and JS (usign the paper library)
 This is an exercise for the WebDev Bootcamp in Udemy, a clone of this site: http://patatap.com/
 
-Open and press any letter from A-Z to see what happens: https://sheilagomes.github.io/Musical-Triangles/
+Open in a computer, and press any letter from A-Z to see what happens: https://sheilagomes.github.io/Musical-Triangles/
